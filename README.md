@@ -9,7 +9,7 @@ This project is a job portal platform designed to streamline the job application
 ### Images and Descriptions:
 
 1. **Job Search Interface:**
-   ![Job Search Interface](https://github.com/user-attachments/assets/0f61d4d9-c7ca-443b-be44-b66b41576546)
+   ![Job Search Interface](https://github.com/user-attachments/assets/62c974a3-bd5e-4546-9427-5892fb1d4130)
 
    - Search bar, filter options, and a list of trusted companies and job postings. Provides a user-friendly job searching experience.
 
